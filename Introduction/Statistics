@@ -1,0 +1,13 @@
+Descriptive Statistics      -   Work on full data to understand the trends
+Inferential Statistics      -   Work on sample to understand the trend and infer the data general for population
+
+Hypothesis Testing          -   Null Hypothesis
+                            -   Alternate Hypothesis
+    Type I Error            -   Rejecting Null Hypothesis while it's True
+    Type II Error           -   Accepting the Null hypothesis when it is False
+
+    Degree of Freedom       -   n - 1 (Total number of samples - 1)
+    Pooled Sample Variance  -
+            (Deg Of Freedom * Variance of 1st Sample + Deg Of Freedom * Variance of 2nd Sample) / 2 * Deg Of Freedom
+
+Confidence Interval         -

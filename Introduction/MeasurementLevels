@@ -1,0 +1,20 @@
+
+*Categorical Data*      -   *Nominal Data*
+                        -   *Ordinal Data*
+
+Nominal Data    -   Data that can be categorized
+                    Eg: Male / Female , Yes / No
+Ordinal Data    -   Data that can be categorized and ranked
+                    Eg: Strongly Agree, Agree, Neutral, Disagree, Strongly Disagree     -   Likert Scale
+                        Candidate Ranking
+                        Burn Degree
+
+Interval Data   -   Data to be expressed in intervals and do not have a true zero value.
+                    Eg : -20F , -40F
+Ratio Data      -   Data which do have a true zero value
+                    Eg : Height, Weight, Age etc. (This data cannot be less than 0)
+
+Continuous Data  -  Any value that can hold change of data
+                    Eg : sin(x), heart rate, vehicle speed
+Discrete Data    -  Should contain whole numbers which can denote a specific value
+                    Eg : Number of students in a school, Number of family members
