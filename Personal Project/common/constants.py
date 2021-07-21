@@ -1,1 +1,0 @@
-matchType = ["ODI", "T20I"]
